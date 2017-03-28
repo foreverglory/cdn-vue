@@ -1,0 +1,23 @@
+{
+  "name": "cdn-vue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/cdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foreverglory/cdn-vue.git"
+  },
+  "keywords": [
+    "cdn",
+    "vue"
+  ],
+  "author": "ForeverGlory <foreverglory@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foreverglory/cdn-vue/issues"
+  },
+  "homepage": "https://github.com/foreverglory/cdn-vue#readme"
+}
